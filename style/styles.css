@@ -25,6 +25,7 @@ header {
   width: 100%;
   z-index: 1000;
   display: flex;
+  color: black;
 }
 
 nav {
